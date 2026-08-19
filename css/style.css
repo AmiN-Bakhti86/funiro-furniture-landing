@@ -586,9 +586,6 @@ button:hover{
         width: 100%;
         margin: 0;
     }
-    .scroll-top{
-        bottom: 1rem;
-    }
     .footer__content{
         display: flex;
         flex-direction: column;
