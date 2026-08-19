@@ -587,7 +587,7 @@ button:hover{
         margin: 0;
     }
     .scroll-top{
-        bottom: 7.5rem;
+        bottom: 1rem;
     }
     .footer__content{
         display: flex;
