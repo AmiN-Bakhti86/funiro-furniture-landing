@@ -2,7 +2,7 @@
 
 A modern, pixel-perfect, and fully responsive e-commerce landing page clone based on a Figma design.
 
-🔗 **Live Demo:** [Click Here to View Live Website]https://amin-bakhti86.github.io/funiro-furniture-landing/
+🔗 **Live Demo:** [Click Here to View Live Website] https://amin-bakhti86.github.io/funiro-furniture-landing/
 
 ---
 
